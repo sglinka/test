@@ -4,3 +4,4 @@
 - do requirement analysis
 - do use case analysis
 - do implementation
+- testing
