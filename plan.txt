@@ -3,3 +3,4 @@
 - do interview
 - do requirement analysis
 - do implementation
+- testing
