@@ -3,6 +3,7 @@
 - do interview
 - do requirement analysis
 - do use case analysis
+- get lunch
 - do implementation
 - testing
 - deployment of finished product
