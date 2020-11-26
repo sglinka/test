@@ -1,0 +1,3 @@
+- do research
+- do requirement analysis
+- do implementation
