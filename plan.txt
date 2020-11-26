@@ -5,3 +5,4 @@
 - do use case analysis
 - do implementation
 - testing
+- sell the project
